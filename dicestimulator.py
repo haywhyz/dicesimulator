@@ -1,5 +1,5 @@
 import random
-print("This is a dice stimulator Application")
+print("This is a dice-stimulator Application")
 x = "y"
 
 while x == "y":
